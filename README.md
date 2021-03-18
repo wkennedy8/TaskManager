@@ -1,6 +1,5 @@
 # MERN Todo App
 
-
 ## Requirements
 
 - [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/) (quick install: install Homebrew and `run brew update && brew tap mongodb/brew && brew install mongodb-community@4.2`)
@@ -13,8 +12,8 @@
 NOTE: A SendGrid API key is required for email notifications.
 
 ```
-$ git clone git@github.com:wyncode/todo-mern-api.git
-$ cd todo-mern-api
+$ git clone git@github.com:wkennedy8/TaskManager.git
+$ cd TaskManager
 $ yarn
 $ mkdir config
 $ cp .env.sample config/dev.env
